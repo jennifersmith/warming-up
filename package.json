@@ -1,0 +1,11 @@
+{
+  "name": "warming-up",
+  "version": "1.0.0",
+  "description": "Jen is warming up for ludum dare 31",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JenniferSmith",
+  "license": "GNU GPL v3.0"
+}
