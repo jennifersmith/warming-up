@@ -8,5 +8,8 @@
   },
   "author": "JenniferSmith",
   "license": "GNU GPL v3.0",
-  "repository": "https://github.com/jennifersmith/warming-up"
+  "repository": "https://github.com/jennifersmith/warming-up",
+    "dependencies":{
+        "bower" : "latest"
+    }
 }
